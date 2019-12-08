@@ -1,5 +1,14 @@
+# 施工中
+
 ![BUAA](./IMG/buaaname.png)
 -
+<font face="黑体" size = 3>
+<b>写在前面：</b><br/>
+</font>
+<font face="仿宋" size = 3>
+&emsp;&emsp;测试<br/><br/>
+以下是正经的致谢正文：
+</font>
 
 <h1 align="center">致 谢</h1>
 &emsp;&emsp;
