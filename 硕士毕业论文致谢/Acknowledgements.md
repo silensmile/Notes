@@ -26,5 +26,5 @@
 
  ---
 
-![答辩当晚](./IMG/答辩当晚.jpg)<br/>
+![答辩当晚](./IMG/答辩当晚.jpg)<br/><br/>
 *The world is full of lonely poeple afraid to make the first move.*
