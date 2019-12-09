@@ -1,6 +1,6 @@
 # 施工中
 
-![BUAA](.//IMG//buaaname.png)
+![BUAA](./IMG/buaaname.png)
 -
 <font face="黑体" size = 3>
 <b>写在前面：</b><br/>
